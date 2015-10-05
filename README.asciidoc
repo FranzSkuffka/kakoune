@@ -1,4 +1,4 @@
-= image:{logo}[K,30,30] Kakoune image:{travis-img}[link="{travis-url}"]
+= image:{logo}[K,30,30] Kakoune image:{travis-img}[link="{travis-url}"] [![Average time to resolve an issue](http://isitmaintained.com/badge/resolution/mawww/kakoune.svg)](http://isitmaintained.com/project/mawww/kakoune "Average time to resolve an issue") [![Percentage of issues still open](http://isitmaintained.com/badge/open/mawww/kakoune.svg)](http://isitmaintained.com/project/mawww/kakoune "Percentage of issues still open")
 :logo: https://rawgit.com/mawww/kakoune/master/doc/kakoune_logo.svg
 :travis-img: https://travis-ci.org/mawww/kakoune.svg?branch=master
 :travis-url: https://travis-ci.org/mawww/kakoune
